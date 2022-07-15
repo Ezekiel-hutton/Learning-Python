@@ -1,2 +1,2 @@
-# Learning-Python
-Python class
+making edits
+#Learning Python
